@@ -1,0 +1,93 @@
+<46>1 2015-02-21T00:02:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T00:22:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T00:42:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T00:42:43-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3170', processed='center(received)=1597', processed='destination(messages)=1573', processed='destination(logserver)=1597', processed='source(downstream_src)=0', processed='source(local_src)=1597'
+<46>1 2015-02-21T01:02:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T01:22:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T01:42:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T01:42:43-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3178', processed='center(received)=1601', processed='destination(messages)=1577', processed='destination(logserver)=1601', processed='source(downstream_src)=0', processed='source(local_src)=1601'
+<46>1 2015-02-21T02:02:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T02:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T02:42:43-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3184', processed='center(received)=1604', processed='destination(messages)=1580', processed='destination(logserver)=1604', processed='source(downstream_src)=0', processed='source(local_src)=1604'
+<46>1 2015-02-21T03:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T03:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T03:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T03:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3192', processed='center(received)=1608', processed='destination(messages)=1584', processed='destination(logserver)=1608', processed='source(downstream_src)=0', processed='source(local_src)=1608'
+<46>1 2015-02-21T04:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T04:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T04:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T04:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3200', processed='center(received)=1612', processed='destination(messages)=1588', processed='destination(logserver)=1612', processed='source(downstream_src)=0', processed='source(local_src)=1612'
+<46>1 2015-02-21T05:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T05:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T05:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T05:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3208', processed='center(received)=1616', processed='destination(messages)=1592', processed='destination(logserver)=1616', processed='source(downstream_src)=0', processed='source(local_src)=1616'
+<46>1 2015-02-21T06:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T06:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T06:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T06:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3216', processed='center(received)=1620', processed='destination(messages)=1596', processed='destination(logserver)=1620', processed='source(downstream_src)=0', processed='source(local_src)=1620'
+<46>1 2015-02-21T07:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<14>1 2015-02-21T07:12:14-06:00 c0-0c0s4 ccrdhelper 2127 - -  Sat Feb 21 07:12:14.502 2015:0xb72caa70:scanner.c:get_die_temp_threshold:772:ERR:cannot get cpu Tjmax
+<46>1 2015-02-21T07:32:14-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T07:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3224', processed='center(received)=1624', processed='destination(messages)=1600', processed='destination(logserver)=1624', processed='source(downstream_src)=0', processed='source(local_src)=1624'
+<46>1 2015-02-21T08:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T08:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T08:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T08:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3232', processed='center(received)=1628', processed='destination(messages)=1604', processed='destination(logserver)=1628', processed='source(downstream_src)=0', processed='source(local_src)=1628'
+<46>1 2015-02-21T09:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T09:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T09:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T09:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3240', processed='center(received)=1632', processed='destination(messages)=1608', processed='destination(logserver)=1632', processed='source(downstream_src)=0', processed='source(local_src)=1632'
+<46>1 2015-02-21T10:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T10:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T10:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T10:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3248', processed='center(received)=1636', processed='destination(messages)=1612', processed='destination(logserver)=1636', processed='source(downstream_src)=0', processed='source(local_src)=1636'
+<46>1 2015-02-21T11:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T11:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T11:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T11:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3256', processed='center(received)=1640', processed='destination(messages)=1616', processed='destination(logserver)=1640', processed='source(downstream_src)=0', processed='source(local_src)=1640'
+<46>1 2015-02-21T12:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T12:22:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T12:42:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T12:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3264', processed='center(received)=1644', processed='destination(messages)=1620', processed='destination(logserver)=1644', processed='source(downstream_src)=0', processed='source(local_src)=1644'
+<46>1 2015-02-21T13:02:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T13:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T13:42:44-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3270', processed='center(received)=1647', processed='destination(messages)=1623', processed='destination(logserver)=1647', processed='source(downstream_src)=0', processed='source(local_src)=1647'
+<46>1 2015-02-21T14:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T14:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T14:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T14:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3278', processed='center(received)=1651', processed='destination(messages)=1627', processed='destination(logserver)=1651', processed='source(downstream_src)=0', processed='source(local_src)=1651'
+<46>1 2015-02-21T15:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T15:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T15:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T15:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3286', processed='center(received)=1655', processed='destination(messages)=1631', processed='destination(logserver)=1655', processed='source(downstream_src)=0', processed='source(local_src)=1655'
+<46>1 2015-02-21T16:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T16:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T16:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T16:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3294', processed='center(received)=1659', processed='destination(messages)=1635', processed='destination(logserver)=1659', processed='source(downstream_src)=0', processed='source(local_src)=1659'
+<46>1 2015-02-21T17:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T17:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T17:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T17:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3302', processed='center(received)=1663', processed='destination(messages)=1639', processed='destination(logserver)=1663', processed='source(downstream_src)=0', processed='source(local_src)=1663'
+<46>1 2015-02-21T18:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T18:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T18:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T18:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3310', processed='center(received)=1667', processed='destination(messages)=1643', processed='destination(logserver)=1667', processed='source(downstream_src)=0', processed='source(local_src)=1667'
+<46>1 2015-02-21T19:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T19:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T19:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T19:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3318', processed='center(received)=1671', processed='destination(messages)=1647', processed='destination(logserver)=1671', processed='source(downstream_src)=0', processed='source(local_src)=1671'
+<46>1 2015-02-21T20:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T20:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T20:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T20:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3326', processed='center(received)=1675', processed='destination(messages)=1651', processed='destination(logserver)=1675', processed='source(downstream_src)=0', processed='source(local_src)=1675'
+<46>1 2015-02-21T21:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T21:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T21:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T21:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3334', processed='center(received)=1679', processed='destination(messages)=1655', processed='destination(logserver)=1679', processed='source(downstream_src)=0', processed='source(local_src)=1679'
+<46>1 2015-02-21T22:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T22:22:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T22:42:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T22:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3342', processed='center(received)=1683', processed='destination(messages)=1659', processed='destination(logserver)=1683', processed='source(downstream_src)=0', processed='source(local_src)=1683'
+<46>1 2015-02-21T23:02:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T23:22:46-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-21T23:42:45-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=3348', processed='center(received)=1686', processed='destination(messages)=1662', processed='destination(logserver)=1686', processed='source(downstream_src)=0', processed='source(local_src)=1686'

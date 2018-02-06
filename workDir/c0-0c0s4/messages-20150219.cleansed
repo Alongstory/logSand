@@ -1,0 +1,652 @@
+<46>1 2015-02-19T00:02:38-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T00:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T00:42:38-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=502', processed='center(received)=255', processed='destination(messages)=247', processed='destination(logserver)=255', processed='source(downstream_src)=0', processed='source(local_src)=255'
+<46>1 2015-02-19T01:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T01:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T01:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T01:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=510', processed='center(received)=259', processed='destination(messages)=251', processed='destination(logserver)=259', processed='source(downstream_src)=0', processed='source(local_src)=259'
+<46>1 2015-02-19T02:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T02:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T02:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T02:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=518', processed='center(received)=263', processed='destination(messages)=255', processed='destination(logserver)=263', processed='source(downstream_src)=0', processed='source(local_src)=263'
+<46>1 2015-02-19T03:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T03:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T03:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T03:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=526', processed='center(received)=267', processed='destination(messages)=259', processed='destination(logserver)=267', processed='source(downstream_src)=0', processed='source(local_src)=267'
+<46>1 2015-02-19T04:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T04:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T04:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T04:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=534', processed='center(received)=271', processed='destination(messages)=263', processed='destination(logserver)=271', processed='source(downstream_src)=0', processed='source(local_src)=271'
+<46>1 2015-02-19T05:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T05:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T05:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T05:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=542', processed='center(received)=275', processed='destination(messages)=267', processed='destination(logserver)=275', processed='source(downstream_src)=0', processed='source(local_src)=275'
+<46>1 2015-02-19T06:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T06:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T06:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T06:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=550', processed='center(received)=279', processed='destination(messages)=271', processed='destination(logserver)=279', processed='source(downstream_src)=0', processed='source(local_src)=279'
+<46>1 2015-02-19T07:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T07:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T07:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T07:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=558', processed='center(received)=283', processed='destination(messages)=275', processed='destination(logserver)=283', processed='source(downstream_src)=0', processed='source(local_src)=283'
+<46>1 2015-02-19T08:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T08:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T08:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T08:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=566', processed='center(received)=287', processed='destination(messages)=279', processed='destination(logserver)=287', processed='source(downstream_src)=0', processed='source(local_src)=287'
+<46>1 2015-02-19T09:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T09:22:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T09:42:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T09:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=574', processed='center(received)=291', processed='destination(messages)=283', processed='destination(logserver)=291', processed='source(downstream_src)=0', processed='source(local_src)=291'
+<46>1 2015-02-19T10:02:39-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-02-19T10:12:17-06:00 c0-0c0s4 erd 2121 - -  setting 'flood_control' to '0'
+<13>1 2015-02-19T10:12:17-06:00 c0-0c0s4 bcsysd 2115 - -  sending ec_rca_shutdown to c0-0c0s4n0
+<13>1 2015-02-19T10:12:17-06:00 c0-0c0s4 bcsysd 2115 - -  sending ec_rca_shutdown to c0-0c0s4n1
+<13>1 2015-02-19T10:12:17-06:00 c0-0c0s4 bcsysd 2115 - -  sending ec_rca_shutdown to c0-0c0s4n2
+<13>1 2015-02-19T10:12:17-06:00 c0-0c0s4 bcsysd 2115 - -  sending ec_rca_shutdown to c0-0c0s4n3
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  RCA-based shutdown of c0-0c0s4n0 successful
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  RCA-based shutdown of c0-0c0s4n1 successful
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  RCA-based shutdown of c0-0c0s4n2 successful
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  RCA-based shutdown of c0-0c0s4n3 successful
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T10:12:30-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n3 (NID=0x13=19)
+<46>1 2015-02-19T10:32:30-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T10:42:39-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=606', processed='center(received)=307', processed='destination(messages)=299', processed='destination(logserver)=307', processed='source(downstream_src)=0', processed='source(local_src)=307'
+<46>1 2015-02-19T11:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T11:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T11:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T11:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=614', processed='center(received)=311', processed='destination(messages)=303', processed='destination(logserver)=311', processed='source(downstream_src)=0', processed='source(local_src)=311'
+<46>1 2015-02-19T12:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T12:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T12:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T12:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=622', processed='center(received)=315', processed='destination(messages)=307', processed='destination(logserver)=315', processed='source(downstream_src)=0', processed='source(local_src)=315'
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 netwatch 2151 - -  process_directive: lcb_polling FALSE; reverting routefile to default
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 netwatch 2151 - -  reset_lcb_history: clear and reset LCB history; size 10
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n0 is already stopped
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n1 is already stopped
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n2 is already stopped
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n3 is already stopped
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T12:51:27-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n3 (NID=0x13=19)
+<13>1 2015-02-19T12:51:34-06:00 c0-0c0s4 erd 2121 - -  setting 'flood_control' to '1'
+<13>1 2015-02-19T12:51:59-06:00 c0-0c0s4 erd 2121 - -  setting 'flood_control' to '0'
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcbwtd 2078 - -  stop_orb_poll_timer: stopping ORB poll timer
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcbwtd 2078 - -  start_orb_poll_timer: starting ORB poll timer 1000 msec
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[0] is_svc field to 0
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[1] is_svc field to 0
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[2] is_svc field to 0
+<13>1 2015-02-19T12:52:01-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[3] is_svc field to 0
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:52:06-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:52:07-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:52:08-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=3 --startup
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345940, 4764 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345941, 4764 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345922, 40118 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345923, 106496 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345924, 40118 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  creating PATH345925, 106496 bytes
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n0 is already stopped
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n1 is already stopped
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n2 is already stopped
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  node c0-0c0s4n3 is already stopped
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T12:52:13-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n3 (NID=0x13=19)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n3 (NID=0x13=19)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcsysd 2115 - -  powering down c0-0c0s4n0
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcpmd 2147 - -  Node 0 Management Engine power state changed to 'Off'
+<12>1 2015-02-19T12:52:14-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 6:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<12>1 2015-02-19T12:52:14-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 6:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<13>1 2015-02-19T12:52:14-06:00 c0-0c0s4 bcnmi 21202 - -  Sending ACPI poweroff to node 0
+<13>1 2015-02-19T12:52:15-06:00 c0-0c0s4 bcpmd 2147 - -  bcpmd_tick: Node 0 power state changed from ON --> OFF
+<13>1 2015-02-19T12:52:16-06:00 c0-0c0s4 bcnmi 21202 - -  Success
+<13>1 2015-02-19T12:52:17-06:00 c0-0c0s4 node_off - - -  Node 0 is now powered down.
+<13>1 2015-02-19T12:52:17-06:00 c0-0c0s4 bcsysd 2115 - -  powering down c0-0c0s4n1
+<13>1 2015-02-19T12:52:18-06:00 c0-0c0s4 bcpmd 2147 - -  Node 1 Management Engine power state changed to 'Off'
+<12>1 2015-02-19T12:52:18-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 8:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<12>1 2015-02-19T12:52:18-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 8:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<13>1 2015-02-19T12:52:18-06:00 c0-0c0s4 bcnmi 21250 - -  Sending ACPI poweroff to node 1
+<13>1 2015-02-19T12:52:20-06:00 c0-0c0s4 bcnmi 21250 - -  Success
+<13>1 2015-02-19T12:52:21-06:00 c0-0c0s4 node_off - - -  Node 1 is now powered down.
+<13>1 2015-02-19T12:52:21-06:00 c0-0c0s4 bcsysd 2115 - -  powering down c0-0c0s4n2
+<12>1 2015-02-19T12:52:22-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 10:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<12>1 2015-02-19T12:52:22-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 10:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<13>1 2015-02-19T12:52:22-06:00 c0-0c0s4 bcnmi 21302 - -  Sending ACPI poweroff to node 2
+<13>1 2015-02-19T12:52:24-06:00 c0-0c0s4 bcnmi 21302 - -  Success
+<13>1 2015-02-19T12:52:25-06:00 c0-0c0s4 node_off - - -  Node 2 is now powered down.
+<13>1 2015-02-19T12:52:25-06:00 c0-0c0s4 bcsysd 2115 - -  powering down c0-0c0s4n3
+<13>1 2015-02-19T12:52:25-06:00 c0-0c0s4 bcpmd 2147 - -  Node 3 Management Engine power state changed to 'Off'
+<12>1 2015-02-19T12:52:26-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 12:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<13>1 2015-02-19T12:52:26-06:00 c0-0c0s4 bcpmd 2147 - -  bcpmd_tick: Node 3 power state changed from ON --> OFF
+<12>1 2015-02-19T12:52:26-06:00 c0-0c0s4 kernel - - -  ci2c_xfer_one: i2c bus 12:0x16 bus timeout (CR 0x08, SR 0x01, CSR 0x90000030, SSR 0x00)
+<13>1 2015-02-19T12:52:26-06:00 c0-0c0s4 bcnmi 21350 - -  Sending ACPI poweroff to node 3
+<13>1 2015-02-19T12:52:28-06:00 c0-0c0s4 bcnmi 21350 - -  Success
+<13>1 2015-02-19T12:52:29-06:00 c0-0c0s4 node_off - - -  Node 3 is now powered down.
+<13>1 2015-02-19T12:52:30-06:00 c0-0c0s4 bcbwtd 2078 - -  cb_stop_mod_dwn: Turning congestion and ORB monitoring off
+<13>1 2015-02-19T12:52:30-06:00 c0-0c0s4 bcbwtd 2078 - -  stop_orb_poll_timer: stopping ORB poll timer
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  destroy_rca_channels: removing PATH345926 channel interrupts for c0-0c0s4n3 (NID=0x13=19)
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_dwn: Avoiding powering down Aries.
+<13>1 2015-02-19T12:52:33-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: Enabling Aries clocks.
+<13>1 2015-02-19T12:52:34-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: asserting POR...
+<13>1 2015-02-19T12:52:34-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: asserting JTAG_TRSTN...
+<13>1 2015-02-19T12:52:34-06:00 c0-0c0s4 l0dd 2092 - -  ar_dd_jtag_reset(Holding Aries JTAG_TRSTN)
+<13>1 2015-02-19T12:52:35-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: de-asserting POR...
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pre: Aries 0, Not yet implemented.
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Aries 0
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 l0dd 2092 - -  ar_dd_jtag_reset(Releasing JTAG_TRSTN)
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: IDCODE: 0x28cb257f, Real Aries.
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  bclib_set_nic_map: NIC re-mapping is  in place.
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Begin Aries init sequence...
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: On an ANC or IBB pass 3, clearing TERM_ENABLE's
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Reading E-fuse data.
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: FuseData[0](lsb on right): 0x000136c8, 0x00000000, 0x028300eb, 0x56ec1668
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: efuse data, version 1.2
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Skew bits: 0x0
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Production code: 0x1
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Fab code: 12
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Lot number: P755
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Wafer number: 24
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: x, y coordinates: +6, +10
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Oscillator Count ID: 1243
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Package Voltage Scale raw: 0x4
+<13>1 2015-02-19T12:52:36-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Setting VCORE to 900mV
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 l0dd 2092 - -  ar_dd_jtag_reset(Releasing JTAG_TRSTN)
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345927'
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 0 in file 'PATH345927'.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345927'
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 1 in file 'PATH345927'.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345927'
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 2 in file 'PATH345927'.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345927'
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 3 in file 'PATH345927'.
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: About to enable MBIST
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Waiting 4 seconds for bist_done
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: group 0, bist_done is TRUE
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Waiting 4 seconds for bist_done
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: group 1, bist_done is TRUE
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Waiting 4 seconds for bist_done
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: group 2, bist_done is TRUE
+<13>1 2015-02-19T12:52:38-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Waiting 4 seconds for bist_done
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: group 3, bist_done is TRUE
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: bist_error is FALSE, continuing...
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: changing LOD JTAG speed to 33 MHz.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_pst: Configuration complete.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for console, node 0, device 'PATH345928'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for BIOS communication, node 0, device 'PATH345929'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for console, node 1, device 'PATH345930'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for BIOS communication, node 1, device 'PATH345931'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for console, node 2, device 'PATH345932'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for BIOS communication, node 2, device 'PATH345933'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for console, node 3, device 'PATH345934'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  do_l0_mod_up: setting up UART for BIOS communication, node 3, device 'PATH345935'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345936'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 0 in file 'PATH345936'.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_fixmmrs: PCIe target rate = 3x16
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345936'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 1 in file 'PATH345936'.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_fixmmrs: PCIe target rate = 3x16
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345936'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 2 in file 'PATH345936'.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_fixmmrs: PCIe target rate = 3x16
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Found MMR override file: 'PATH345936'
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: Slot focus: all slots.  Node focus: all nodes.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_hack_mmrfile: No usable override MMR values found for node 3 in file 'PATH345936'.
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  aries_fixmmrs: PCIe target rate = 3x16
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_o: powering up c0-0c0s4n0 for bios interaction
+<13>1 2015-02-19T12:52:39-06:00 c0-0c0s4 pdc_on - - -  The PDC is powered up by default on this board.  Exiting.
+<13>1 2015-02-19T12:52:40-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 0 auto power-up  (starting PS7, expected ending PS33)
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 0 VRD regs successfully written
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 0 VRDs patched
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 0
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_o: powering up c0-0c0s4n1 for bios interaction
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 pdc_on - - -  The PDC is powered up by default on this board.  Exiting.
+<13>1 2015-02-19T12:52:49-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 1 auto power-up  (starting PS7, expected ending PS33)
+<13>1 2015-02-19T12:52:58-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 1 VRD regs successfully written
+<13>1 2015-02-19T12:52:58-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 1 VRDs patched
+<13>1 2015-02-19T12:52:59-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 1
+<13>1 2015-02-19T12:52:59-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_o: powering up c0-0c0s4n2 for bios interaction
+<13>1 2015-02-19T12:52:59-06:00 c0-0c0s4 pdc_on - - -  The PDC is powered up by default on this board.  Exiting.
+<13>1 2015-02-19T12:52:59-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 2 auto power-up  (starting PS7, expected ending PS33)
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 2 VRD regs successfully written
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4  - - -  VRM patch OK @ 16:0x0f:0x62 to 0x8f mask 0xff
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 2 VRDs patched
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 2
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_o: powering up c0-0c0s4n3 for bios interaction
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 pdc_on - - -  The PDC is powered up by default on this board.  Exiting.
+<13>1 2015-02-19T12:53:08-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 3 auto power-up  (starting PS7, expected ending PS33)
+<13>1 2015-02-19T12:53:17-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 3 VRD regs successfully written
+<13>1 2015-02-19T12:53:18-06:00 c0-0c0s4 irvrd_write_regs - - -  Node 3 VRDs patched
+<13>1 2015-02-19T12:53:18-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 3
+<11>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi2.1: unrecognized JEDEC id 1f2600
+<12>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi3.1: found w25q128, expected m25p80
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi3.1: w25q128 (16384 Kbytes)
+<12>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi4.1: found w25q128, expected m25p80
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi4.1: w25q128 (16384 Kbytes)
+<11>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi5.1: unrecognized JEDEC id 1f2600
+<12>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi6.1: found w25q128, expected m25p80
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi6.1: w25q128 (16384 Kbytes)
+<12>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi7.1: found w25q128, expected m25p80
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  m25p80 spi7.1: w25q128 (16384 Kbytes)
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  mtd_dataflash spi1.0: at45db081d (1024 KBytes) pagesize 256 bytes (OTP)
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  mtd_dataflash spi2.0: at45db161d (2048 KBytes) pagesize 512 bytes (OTP)
+<14>1 2015-02-19T12:53:19-06:00 c0-0c0s4 kernel - - -  mtd_dataflash spi5.0: at45db161d (2048 KBytes) pagesize 512 bytes (OTP)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Re-detecting flash and creating PATH345937 symlinks.
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'lod' on SPI bus 1 (mtd0)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'hloc0' on SPI bus 2 (mtd1)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'hloc1' on SPI bus 5 (mtd2)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'node2' on SPI bus 3 (mtd3)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'node1' on SPI bus 4 (mtd4)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'node3' on SPI bus 6 (mtd5)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Detected 'node0' on SPI bus 7 (mtd6)
+<13>1 2015-02-19T12:53:19-06:00 c0-0c0s4 root - - -  <reloadflash>: Done.
+<13>1 2015-02-19T12:53:20-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_cache_bios_rev: Node 0 BIOS rev successfully cached
+<13>1 2015-02-19T12:53:20-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_cache_bios_rev: Node 1 BIOS rev successfully cached
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_cache_bios_rev: Node 2 BIOS rev successfully cached
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_cache_bios_rev: Node 3 BIOS rev successfully cached
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 0 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 0 bios tables initialized
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 0 cname set
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 0 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:21-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 0 RMT table initialized.
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 1 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 1 bios tables initialized
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 1 cname set
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 1 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 1 RMT table initialized.
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 2 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 2 bios tables initialized
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 2 cname set
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 2 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 2 RMT table initialized.
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 3 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 3 bios tables initialized
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 3 cname set
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_get_bios_rev: Node 3 BIOS rev: '4382'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  apply_bios_params: node 3 RMT table initialized.
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  setup_rca_channels: Preparing PATH345938 channels for c0-0c0s4n0 (NID=0x10=16)
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 bcsysd 2115 - -  setup_aries_rca_channel: spawning aconsole command: 'PATH345963 -n 0 -p c0-0c0s4a0 -f rca0 -f err0'
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: tty 0: symbolic link gtty-a0n0-rca0 -> PATH5204 created
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: tty 1: symbolic link gtty-a0n0-err0 -> PATH998 created
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: Waiting for HSS control block...
+<13>1 2015-02-19T12:53:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: Waiting for HSS control block...
+<15>1 2015-02-19T12:53:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: check_hss_interrupts: no control block
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 bcsysd 2115 - -  setup_rca_channels: Preparing PATH345938 channels for c0-0c0s4n1 (NID=0x11=17)
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 bcsysd 2115 - -  setup_aries_rca_channel: spawning aconsole command: 'PATH345963 -n 1 -p c0-0c0s4a0 -f rca0 -f err0'
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: tty 0: symbolic link gtty-a0n1-rca0 -> PATH237675 created
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: tty 1: symbolic link gtty-a0n1-err0 -> PATH4855 created
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: Waiting for HSS control block...
+<13>1 2015-02-19T12:53:23-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: Waiting for HSS control block...
+<15>1 2015-02-19T12:53:23-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: check_hss_interrupts: no control block
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 bcsysd 2115 - -  setup_rca_channels: Preparing PATH345938 channels for c0-0c0s4n2 (NID=0x12=18)
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 bcsysd 2115 - -  setup_aries_rca_channel: spawning aconsole command: 'PATH345963 -n 2 -p c0-0c0s4a0 -f rca0 -f err0'
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: tty 0: symbolic link gtty-a0n2-rca0 -> PATH9034 created
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: tty 1: symbolic link gtty-a0n2-err0 -> PATH5405 created
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: Waiting for HSS control block...
+<13>1 2015-02-19T12:53:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: Waiting for HSS control block...
+<15>1 2015-02-19T12:53:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: check_hss_interrupts: no control block
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 bcsysd 2115 - -  setup_rca_channels: Preparing PATH345938 channels for c0-0c0s4n3 (NID=0x13=19)
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 bcsysd 2115 - -  setup_aries_rca_channel: spawning aconsole command: 'PATH345963 -n 3 -p c0-0c0s4a0 -f rca0 -f err0'
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: tty 0: symbolic link gtty-a0n3-rca0 -> PATH5407 created
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: tty 1: symbolic link gtty-a0n3-err0 -> PATH5411 created
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: Waiting for HSS control block...
+<13>1 2015-02-19T12:53:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: Waiting for HSS control block...
+<15>1 2015-02-19T12:53:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: check_hss_interrupts: no control block
+<13>1 2015-02-19T12:53:26-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_set_rtc: node 0 USER111 set: secs=26 mins=53 hours=18 dom=19 month=2 year=15 reg_a=0x20 reg_b=0x2
+<13>1 2015-02-19T12:53:26-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_set_rtc: node 1 USER111 set: secs=26 mins=53 hours=18 dom=19 month=2 year=15 reg_a=0x20 reg_b=0x2
+<13>1 2015-02-19T12:53:26-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_set_rtc: node 2 USER111 set: secs=26 mins=53 hours=18 dom=19 month=2 year=15 reg_a=0x20 reg_b=0x2
+<13>1 2015-02-19T12:53:26-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_set_rtc: node 3 USER111 set: secs=26 mins=53 hours=18 dom=19 month=2 year=15 reg_a=0x20 reg_b=0x2
+<13>1 2015-02-19T12:53:26-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_a: powering up c0-0c0s4n0 for pcie tuning
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 0 auto power-up  (starting PS33, expected ending PS43)
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 0
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_a: powering up c0-0c0s4n1 for pcie tuning
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 1 auto power-up  (starting PS33, expected ending PS43)
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 bcpmd 2147 - -  Node 0 Management Engine power state changed to 'On'
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 1
+<13>1 2015-02-19T12:53:27-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_a: powering up c0-0c0s4n2 for pcie tuning
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 bcpmd 2147 - -  nm_startup_notifier: Node 0 startup utility returned exit status 0
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 bcpmd 2147 - -  Node 1 Management Engine power state changed to 'On'
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 2 auto power-up  (starting PS33, expected ending PS43)
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 2
+<13>1 2015-02-19T12:53:28-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_a: powering up c0-0c0s4n3 for pcie tuning
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 3 auto power-up  (starting PS33, expected ending PS43)
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  nm_startup_notifier: Node 1 startup utility returned exit status 0
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  Node 2 Management Engine power state changed to 'On'
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 3
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  nm_startup_notifier: Node 2 startup utility returned exit status 0
+<13>1 2015-02-19T12:53:29-06:00 c0-0c0s4 bcpmd 2147 - -  Node 3 Management Engine power state changed to 'On'
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=3 --startup
+<13>1 2015-02-19T12:53:30-06:00 c0-0c0s4 bcpmd 2147 - -  nm_startup_notifier: Node 3 startup utility returned exit status 0
+<13>1 2015-02-19T12:53:31-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Applying PCIe workaround2.
+<13>1 2015-02-19T12:53:31-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Executing PATH345939(1), nicmask: 0xf...
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset - - -  Version 24
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  hloc found: phy=0, pdc=1, node=1, proctype=2
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  hloc found: phy=1, pdc=0, node=1, proctype=2
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  hloc found: phy=2, pdc=0, node=0, proctype=2
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  hloc found: phy=3, pdc=1, node=0, proctype=2
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  INFO: Snowbush TX being overridden
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  writevals 6=4 7=b6 8=af 81=18 108=8
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  INFO: Snowbush TX being overridden
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  writevals 6=4 7=b6 8=af 81=18 108=8
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  INFO: Snowbush TX being overridden
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  writevals 6=4 7=b6 8=af 81=18 108=8
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  INFO: Snowbush TX being overridden
+<14>1 2015-02-19T12:53:31-06:00 c0-0c0s4 phy_cmp_offset 1574 - -  writevals 6=4 7=b6 8=af 81=18 108=8
+<13>1 2015-02-19T12:53:31-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: PATH345939(1) returned: 0, all operations succeeded.
+<13>1 2015-02-19T12:53:31-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Setting LINK_TRAINING_ENABLE and CONFIG_ENABLE.
+<13>1 2015-02-19T12:53:31-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Powering node 0 up the rest of the way.
+<13>1 2015-02-19T12:53:32-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 0 auto power-up  (starting PS43, expected ending PS63)
+<13>1 2015-02-19T12:53:32-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 0
+<13>1 2015-02-19T12:53:32-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Powering node 1 up the rest of the way.
+<13>1 2015-02-19T12:53:32-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 1 auto power-up  (starting PS43, expected ending PS63)
+<13>1 2015-02-19T12:53:33-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 1
+<13>1 2015-02-19T12:53:33-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Powering node 2 up the rest of the way.
+<13>1 2015-02-19T12:53:33-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 2 auto power-up  (starting PS43, expected ending PS63)
+<13>1 2015-02-19T12:53:34-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 2
+<13>1 2015-02-19T12:53:34-06:00 c0-0c0s4 bcsysd 2115 - -  power_up_nodes_b: Powering node 3 up the rest of the way.
+<13>1 2015-02-19T12:53:34-06:00 c0-0c0s4 pdc2_auto_pu - - -  Node 3 auto power-up  (starting PS43, expected ending PS63)
+<13>1 2015-02-19T12:53:35-06:00 c0-0c0s4 pdc2_auto_pu - - -  Successfully powered up node 3
+<13>1 2015-02-19T12:53:35-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: Waiting for BIOS PCIe-ready.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: node 0 is ready for PCIe WAR2_2.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: syncing BIOS for node 0.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_read_raw: Node 0, select() says, no data to read!
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 0, attempt #0 failed to read response.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 0, unable to sync BIOS after 1 attempts.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: node 1 is ready for PCIe WAR2_2.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: syncing BIOS for node 1.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_read_raw: Node 1, select() says, no data to read!
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 1, attempt #0 failed to read response.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 1, unable to sync BIOS after 1 attempts.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: Nodemask 0x3 ready for WAR2_2.
+<13>1 2015-02-19T12:54:39-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: Executing PATH345939(2), nic mask: 0x30...
+<14>1 2015-02-19T12:54:39-06:00 c0-0c0s4 phy_cmp_offset - - -  Version 24
+<13>1 2015-02-19T12:54:40-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: PATH345939(2) returned: 0, all operations succeeded.
+<13>1 2015-02-19T12:54:40-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: Asking BIOS to bring PCIe links back up for node mask 0x3.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: node 2 is ready for PCIe WAR2_2.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: syncing BIOS for node 2.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_read_raw: Node 2, select() says, no data to read!
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 2, attempt #0 failed to read response.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 2, unable to sync BIOS after 1 attempts.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: node 3 is ready for PCIe WAR2_2.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: syncing BIOS for node 3.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_read_raw: Node 3, select() says, no data to read!
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 3, attempt #0 failed to read response.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_uart_sync: Node 3, unable to sync BIOS after 1 attempts.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2: Nodemask 0xc ready for WAR2_2.
+<13>1 2015-02-19T12:54:41-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: Executing PATH345939(2), nic mask: 0xc0...
+<14>1 2015-02-19T12:54:41-06:00 c0-0c0s4 phy_cmp_offset - - -  Version 24
+<13>1 2015-02-19T12:54:42-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: PATH345939(2) returned: 0, all operations succeeded.
+<13>1 2015-02-19T12:54:42-06:00 c0-0c0s4 bcsysd 2115 - -  apply_war2_2_workmask: Asking BIOS to bring PCIe links back up for node mask 0xc.
+<13>1 2015-02-19T12:54:43-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: Waiting for HELLO from nodes...
+<13>1 2015-02-19T12:56:02-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_ping: node 0 BIOS bad status return: 2 (CRAY_BOOT_STATUS_BAD_MAGIC)
+<13>1 2015-02-19T12:56:03-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: node 0 BIOS ping successful.
+<13>1 2015-02-19T12:56:04-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_ping: node 1 BIOS bad status return: 2 (CRAY_BOOT_STATUS_BAD_MAGIC)
+<13>1 2015-02-19T12:56:05-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: node 1 BIOS ping successful.
+<13>1 2015-02-19T12:56:05-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_ping: node 3 BIOS bad status return: 2 (CRAY_BOOT_STATUS_BAD_MAGIC)
+<13>1 2015-02-19T12:56:06-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: node 3 BIOS ping successful.
+<13>1 2015-02-19T12:56:08-06:00 c0-0c0s4 bcsysd 2115 - -  bc_node_bios_ping: node 2 BIOS bad status return: 2 (CRAY_BOOT_STATUS_BAD_MAGIC)
+<13>1 2015-02-19T12:56:09-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: node 2 BIOS ping successful.
+<13>1 2015-02-19T12:56:09-06:00 c0-0c0s4 bcsysd 2115 - -  wait_for_bios_hello: Success for all BIOS's.
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  check_procs check_proc2nodes is turned off, skipping...
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  open_gpu_i2c: open gpu bus (25) failed - No such file or directory.
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  open_gpu_i2c: open gpu bus (26) failed - No such file or directory.
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  open_gpu_i2c: open gpu bus (27) failed - No such file or directory.
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  open_gpu_i2c: open gpu bus (28) failed - No such file or directory.
+<12>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 0 interrupt IREQ=0x40000, USRA=0x102, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 1 interrupt IREQ=0x40000, USRA=0x102, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 2 interrupt IREQ=0x10000, USRA=0x102, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 3 interrupt IREQ=0x10000, USRA=0x102, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcbwtd 2078 - -  cb_start: Turning congestion and ORB monitoring on
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcbwtd 2078 - -  initialize_mmrs: setting up MMRs now
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcpmd 2147 - -  cb_node_up_rsp: rewriting LPC descriptor block for node 0
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcpmd 2147 - -  cb_node_up_rsp: rewriting LPC descriptor block for node 1
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcpmd 2147 - -  cb_node_up_rsp: rewriting LPC descriptor block for node 2
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcpmd 2147 - -  cb_node_up_rsp: rewriting LPC descriptor block for node 3
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2195 - -  logging to 'syslog'
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2195 - -  hss_bios_n0 helper starting
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2197 - -  logging to 'syslog'
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2197 - -  hss_bios_n1 helper starting
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2199 - -  logging to 'syslog'
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2199 - -  hss_bios_n2 helper starting
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2206 - -  logging to 'syslog'
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcsysd 2206 - -  hss_bios_n3 helper starting
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcbwtd 2078 - -  stop_orb_poll_timer: ORB poll timer already stopped
+<13>1 2015-02-19T12:56:12-06:00 c0-0c0s4 bcbwtd 2078 - -  start_orb_poll_timer: starting ORB poll timer 1000 msec
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345940
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: Initializing all connected SerDes and LCBs.
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 0:0 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 1:0 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 1:1 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:0 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:1 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:2 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:3 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:4 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:5 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:6 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 2:7 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 3:0 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 3:4 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 3:5 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 3:6 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 3:7 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:0 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:1 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:3 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:4 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:5 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:6 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  down_serdes: SerDes 4:7 OFF
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: PATH345942 pre-init...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: Resetting NP...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: Loading NP Firmware IRAM...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_fw_load: writing 32768 bytes of NP firmware into NP address 0x0000000003c08000
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: Loading NP Firmware EDRAM...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_fw_load: writing 16384 bytes of NP firmware into NP address 0x0000000003c10000
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  setup_np_fw_lane_config: Loading previous coefficients.
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_load_best_coeffs: Loading pre-saved SerDes coefficients.
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  setup_np_fw_lane_config: Disabling all tuning.
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: Starting up NP...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: Waiting for LCB handoff StepID...
+<13>1 2015-02-19T12:56:13-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP StepID: 0x15
+<13>1 2015-02-19T12:56:14-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP StepID: 0x50
+<13>1 2015-02-19T12:56:33-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP StepID: 0xb2
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP StepID: 0xc0
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP FW stepID 0xc0 reached.
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: NP LCB Handoff StepID confirmed.  Waiting for handshake...
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP StepID: 0xd0
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_np_wait_for_stepid: NP FW stepID 0xd0 reached.
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_init_serdes_all: NP LCB Handoff complete
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  Disabling unused AOC channels.
+<13>1 2015-02-19T12:56:42-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345941 for AOC in-use checks
+<13>1 2015-02-19T12:56:43-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345940
+<13>1 2015-02-19T12:56:43-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: Deadstarting HSN links.
+<13>1 2015-02-19T12:56:43-06:00 c0-0c0s4 bcsysd 2115 - -  Disabling unused AOC channels.
+<13>1 2015-02-19T12:56:43-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345941 for AOC in-use checks
+<13>1 2015-02-19T12:56:44-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345940
+<13>1 2015-02-19T12:56:44-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: Checking HSN links.
+<13>1 2015-02-19T12:56:44-06:00 c0-0c0s4 bcsysd 2115 - -  Disabling unused AOC channels.
+<13>1 2015-02-19T12:56:44-06:00 c0-0c0s4 bcsysd 2115 - -  aries_link_init: using routes file PATH345941 for AOC in-use checks
+<13>1 2015-02-19T12:56:54-06:00 c0-0c0s4 netwatch 2151 - -  reset_lcb_history: clear and reset LCB history; size 10
+<13>1 2015-02-19T12:56:54-06:00 c0-0c0s4 netwatch 2151 - -  process_directive: lcb_polling FALSE->TRUE; reverting routefile to default
+<13>1 2015-02-19T12:56:54-06:00 c0-0c0s4 netwatch 2151 - -  reset_lcb_history: clear and reset LCB history; size 10
+<13>1 2015-02-19T12:56:56-06:00 c0-0c0s4 bcbwtd 2078 - -  stop_orb_poll_timer: stopping ORB poll timer
+<13>1 2015-02-19T12:56:56-06:00 c0-0c0s4 bcbwtd 2078 - -  start_orb_poll_timer: starting ORB poll timer 1000 msec
+<13>1 2015-02-19T12:56:56-06:00 c0-0c0s4 bcbwtd 2078 - -  initialize_mmrs: setting up MMRs now
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  booting c0-0c0s4n0
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  do_boot: node c0-0c0s4n0 is  booting.
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  booting c0-0c0s4n1
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  do_boot: node c0-0c0s4n1 is  booting.
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  booting c0-0c0s4n2
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  do_boot: node c0-0c0s4n2 is  booting.
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  booting c0-0c0s4n3
+<13>1 2015-02-19T13:07:08-06:00 c0-0c0s4 bcsysd 2115 - -  do_boot: node c0-0c0s4n3 is  booting.
+<12>1 2015-02-19T13:07:11-06:00 c0-0c0s4 bcsysd 2115 - -  Node 0 interrupt IREQ=0x40000, USRA=0x100, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T13:07:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 1 interrupt IREQ=0x40000, USRA=0x100, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T13:07:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 2 interrupt IREQ=0x10000, USRA=0x100, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<12>1 2015-02-19T13:07:12-06:00 c0-0c0s4 bcsysd 2115 - -  Node 3 interrupt IREQ=0x10000, USRA=0x100, USRB=0x0 USRA[8]: PCH_SMI PCH System Management
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: Node 0 HSS control block @ 0xfeb836000: version 5, 2 channels
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: Node 1 HSS control block @ 0x1feb3d7a00: version 5, 2 channels
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: tty 0: attached to rca HSS channel 1, duplex at 0x1fe8bd3f00
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: updating the control block
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_meshxyz: node 1 using RCA sideband protocol 1
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: tty 0: attached to rca HSS channel 1, duplex at 0xfeb82cbc0
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: updating the control block
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: Node 2 HSS control block @ 0xfe99a2200: version 5, 2 channels
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: Node 3 HSS control block @ 0x1feb2a9a00: version 5, 2 channels
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: tty 0: attached to rca HSS channel 1, duplex at 0xfe6728900
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: tty 0: attached to rca HSS channel 1, duplex at 0x1fe8f59b00
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: updating the control block
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: updating the control block
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_mesh_xyz_v1: node 1 mcoords have been uploaded, wrote signature = addr 0x1c30002
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_meshxyz: node 0 using RCA sideband protocol 1
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: updating the control block
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: Node 1 HSS control block @ 0x1feb3d7a00: version 5, 3 channels
+<13>1 2015-02-19T13:07:22-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: tty 1: attached to err HSS channel 2, duplex at 0x1fe8bd3cc0
+<13>1 2015-02-19T13:07:23-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_mesh_xyz_v1: node 0 mcoords have been uploaded, wrote signature = addr 0x1c30002
+<13>1 2015-02-19T13:07:23-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_meshxyz: node 2 using RCA sideband protocol 1
+<13>1 2015-02-19T13:07:23-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: updating the control block
+<13>1 2015-02-19T13:07:23-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: Node 0 HSS control block @ 0xfeb836000: version 5, 3 channels
+<13>1 2015-02-19T13:07:23-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: tty 1: attached to err HSS channel 2, duplex at 0xfeb82c980
+<13>1 2015-02-19T13:07:24-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_mesh_xyz_v1: node 2 mcoords have been uploaded, wrote signature = addr 0x1c30002
+<13>1 2015-02-19T13:07:24-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_meshxyz: node 3 using RCA sideband protocol 1
+<13>1 2015-02-19T13:07:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: updating the control block
+<13>1 2015-02-19T13:07:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: Node 2 HSS control block @ 0xfe99a2200: version 5, 3 channels
+<13>1 2015-02-19T13:07:24-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: tty 1: attached to err HSS channel 2, duplex at 0xfe99900c0
+<13>1 2015-02-19T13:07:25-06:00 c0-0c0s4 bcsysd 2115 - -  do_put_mesh_xyz_v1: node 3 mcoords have been uploaded, wrote signature = addr 0x1c30002
+<13>1 2015-02-19T13:07:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: updating the control block
+<13>1 2015-02-19T13:07:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: Node 3 HSS control block @ 0x1feb2a9a00: version 5, 3 channels
+<13>1 2015-02-19T13:07:25-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: tty 1: attached to err HSS channel 2, duplex at 0x1feb9819c0
+<13>1 2015-02-19T13:09:10-06:00 c0-0c0s4 erd 2121 - -  setting 'flood_control' to '1'
+<13>1 2015-02-19T13:11:34-06:00 c0-0c0s4 aconsole - - -  a0n3[989]: tty 0: connected
+<13>1 2015-02-19T13:11:34-06:00 c0-0c0s4 aconsole - - -  a0n1[979]: tty 0: connected
+<13>1 2015-02-19T13:11:34-06:00 c0-0c0s4 aconsole - - -  a0n0[974]: tty 0: connected
+<13>1 2015-02-19T13:11:34-06:00 c0-0c0s4 aconsole - - -  a0n2[984]: tty 0: connected
+<46>1 2015-02-19T13:31:34-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T13:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1668', processed='center(received)=842', processed='destination(messages)=826', processed='destination(logserver)=842', processed='source(downstream_src)=0', processed='source(local_src)=842'
+<46>1 2015-02-19T14:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T14:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T14:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T14:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1676', processed='center(received)=846', processed='destination(messages)=830', processed='destination(logserver)=846', processed='source(downstream_src)=0', processed='source(local_src)=846'
+<46>1 2015-02-19T15:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-02-19T15:11:42-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[0] is_svc field to 0
+<13>1 2015-02-19T15:11:42-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[1] is_svc field to 0
+<13>1 2015-02-19T15:11:42-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[2] is_svc field to 0
+<13>1 2015-02-19T15:11:42-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[3] is_svc field to 0
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T15:11:48-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-19T15:11:49-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-02-19T15:31:49-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T15:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1738', processed='center(received)=877', processed='destination(messages)=861', processed='destination(logserver)=877', processed='source(downstream_src)=0', processed='source(local_src)=877'
+<46>1 2015-02-19T16:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T16:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T16:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T16:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1746', processed='center(received)=881', processed='destination(messages)=865', processed='destination(logserver)=881', processed='source(downstream_src)=0', processed='source(local_src)=881'
+<46>1 2015-02-19T17:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T17:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T17:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T17:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1754', processed='center(received)=885', processed='destination(messages)=869', processed='destination(logserver)=885', processed='source(downstream_src)=0', processed='source(local_src)=885'
+<46>1 2015-02-19T18:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T18:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T18:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T18:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1762', processed='center(received)=889', processed='destination(messages)=873', processed='destination(logserver)=889', processed='source(downstream_src)=0', processed='source(local_src)=889'
+<46>1 2015-02-19T19:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T19:22:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T19:42:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T19:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1770', processed='center(received)=893', processed='destination(messages)=877', processed='destination(logserver)=893', processed='source(downstream_src)=0', processed='source(local_src)=893'
+<46>1 2015-02-19T20:02:40-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T20:22:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T20:42:40-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1776', processed='center(received)=896', processed='destination(messages)=880', processed='destination(logserver)=896', processed='source(downstream_src)=0', processed='source(local_src)=896'
+<46>1 2015-02-19T21:02:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T21:22:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T21:42:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T21:42:41-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1784', processed='center(received)=900', processed='destination(messages)=884', processed='destination(logserver)=900', processed='source(downstream_src)=0', processed='source(local_src)=900'
+<46>1 2015-02-19T22:02:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T22:22:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T22:42:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T22:42:41-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1792', processed='center(received)=904', processed='destination(messages)=888', processed='destination(logserver)=904', processed='source(downstream_src)=0', processed='source(local_src)=904'
+<46>1 2015-02-19T23:02:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T23:22:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T23:42:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-19T23:42:41-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=1800', processed='center(received)=908', processed='destination(messages)=892', processed='destination(logserver)=908', processed='source(downstream_src)=0', processed='source(local_src)=908'

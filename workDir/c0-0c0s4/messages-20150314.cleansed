@@ -1,0 +1,115 @@
+<46>1 2015-03-14T01:18:01-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T01:23:35-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8892', processed='center(received)=4470', processed='destination(messages)=4422', processed='destination(logserver)=4470', processed='source(downstream_src)=0', processed='source(local_src)=4470'
+<46>1 2015-03-14T01:43:35-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T02:03:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T02:23:35-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8898', processed='center(received)=4473', processed='destination(messages)=4425', processed='destination(logserver)=4473', processed='source(downstream_src)=0', processed='source(local_src)=4473'
+<46>1 2015-03-14T02:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T03:03:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T03:23:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T03:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8906', processed='center(received)=4477', processed='destination(messages)=4429', processed='destination(logserver)=4477', processed='source(downstream_src)=0', processed='source(local_src)=4477'
+<46>1 2015-03-14T03:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T04:03:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T04:23:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T04:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8914', processed='center(received)=4481', processed='destination(messages)=4433', processed='destination(logserver)=4481', processed='source(downstream_src)=0', processed='source(local_src)=4481'
+<46>1 2015-03-14T04:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-03-14T05:01:59-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T05:01:59-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_cpu_therm_ctrl_activation: get_sensor_reading failed with (255)
+<29>1 2015-03-14T05:10:50-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T05:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8924', processed='center(received)=4486', processed='destination(messages)=4438', processed='destination(logserver)=4486', processed='source(downstream_src)=0', processed='source(local_src)=4486'
+<46>1 2015-03-14T05:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T06:03:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T06:23:36-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T06:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8932', processed='center(received)=4490', processed='destination(messages)=4442', processed='destination(logserver)=4490', processed='source(downstream_src)=0', processed='source(local_src)=4490'
+<46>1 2015-03-14T06:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-03-14T06:53:20-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<13>1 2015-03-14T07:01:21-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T07:01:21-06:00 c0-0c0s4 bcsysd 2115 - -  get_core_cups_sensor: get_sensor_reading failed with (255)
+<46>1 2015-03-14T07:21:21-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T07:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8944', processed='center(received)=4496', processed='destination(messages)=4448', processed='destination(logserver)=4496', processed='source(downstream_src)=0', processed='source(local_src)=4496'
+<29>1 2015-03-14T07:27:31-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T07:47:31-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T08:07:31-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T08:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8952', processed='center(received)=4500', processed='destination(messages)=4452', processed='destination(logserver)=4500', processed='source(downstream_src)=0', processed='source(local_src)=4500'
+<29>1 2015-03-14T08:35:51-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T08:55:51-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-03-14T09:00:04-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T09:00:04-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_cpu_therm_ctrl_activation: get_sensor_reading failed with (255)
+<29>1 2015-03-14T09:10:00-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T09:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8964', processed='center(received)=4506', processed='destination(messages)=4458', processed='destination(logserver)=4506', processed='source(downstream_src)=0', processed='source(local_src)=4506'
+<46>1 2015-03-14T09:43:36-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-03-14T10:00:48-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T10:00:48-06:00 c0-0c0s4 bcsysd 2115 - -  get_PCH_thermal_sensor: get_sensor_reading failed with (255)
+<29>1 2015-03-14T10:01:16-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<13>1 2015-03-14T10:10:13-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T10:10:13-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_cpu_thermal_status: get_sensor_reading failed with (255)
+<46>1 2015-03-14T10:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8978', processed='center(received)=4513', processed='destination(messages)=4465', processed='destination(logserver)=4513', processed='source(downstream_src)=0', processed='source(local_src)=4513'
+<29>1 2015-03-14T10:35:25-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-03-14T10:52:29-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T11:12:29-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T11:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8986', processed='center(received)=4517', processed='destination(messages)=4469', processed='destination(logserver)=4517', processed='source(downstream_src)=0', processed='source(local_src)=4517'
+<29>1 2015-03-14T11:26:39-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<13>1 2015-03-14T11:41:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T11:41:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_memory_cups_sensor: get_sensor_reading failed with (255)
+<29>1 2015-03-14T11:43:42-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T12:03:42-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T12:23:36-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=8998', processed='center(received)=4523', processed='destination(messages)=4475', processed='destination(logserver)=4523', processed='source(downstream_src)=0', processed='source(local_src)=4523'
+<46>1 2015-03-14T12:43:37-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-03-14T12:52:03-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T13:12:03-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T13:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9006', processed='center(received)=4527', processed='destination(messages)=4479', processed='destination(logserver)=4527', processed='source(downstream_src)=0', processed='source(local_src)=4527'
+<29>1 2015-03-14T13:26:10-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<13>1 2015-03-14T13:29:17-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T13:29:17-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_mem_throttle_cpu: get_sensor_reading failed with (255)
+<13>1 2015-03-14T13:34:10-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T13:34:10-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_cpu_therm_ctrl_activation: get_sensor_reading failed with (255)
+<46>1 2015-03-14T13:54:10-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T14:14:10-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T14:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9022', processed='center(received)=4535', processed='destination(messages)=4487', processed='destination(logserver)=4535', processed='source(downstream_src)=0', processed='source(local_src)=4535'
+<46>1 2015-03-14T14:43:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T15:03:37-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-03-14T15:08:37-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T15:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9030', processed='center(received)=4539', processed='destination(messages)=4491', processed='destination(logserver)=4539', processed='source(downstream_src)=0', processed='source(local_src)=4539'
+<29>1 2015-03-14T15:25:42-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T15:45:42-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T16:05:42-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T16:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9038', processed='center(received)=4543', processed='destination(messages)=4495', processed='destination(logserver)=4543', processed='source(downstream_src)=0', processed='source(local_src)=4543'
+<46>1 2015-03-14T16:43:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T17:03:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T17:23:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T17:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9046', processed='center(received)=4547', processed='destination(messages)=4499', processed='destination(logserver)=4547', processed='source(downstream_src)=0', processed='source(local_src)=4547'
+<29>1 2015-03-14T17:33:48-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-03-14T17:50:52-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T18:10:52-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T18:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9054', processed='center(received)=4551', processed='destination(messages)=4503', processed='destination(logserver)=4551', processed='source(downstream_src)=0', processed='source(local_src)=4551'
+<29>1 2015-03-14T18:25:01-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-03-14T18:42:04-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T19:02:04-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T19:22:04-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T19:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9064', processed='center(received)=4556', processed='destination(messages)=4508', processed='destination(logserver)=4556', processed='source(downstream_src)=0', processed='source(local_src)=4556'
+<46>1 2015-03-14T19:43:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T20:03:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T20:23:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T20:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9072', processed='center(received)=4560', processed='destination(messages)=4512', processed='destination(logserver)=4560', processed='source(downstream_src)=0', processed='source(local_src)=4560'
+<46>1 2015-03-14T20:43:37-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-14T21:03:37-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-03-14T21:07:08-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-03-14T21:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9080', processed='center(received)=4564', processed='destination(messages)=4516', processed='destination(logserver)=4564', processed='source(downstream_src)=0', processed='source(local_src)=4564'
+<13>1 2015-03-14T21:28:27-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T21:28:27-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_mem_throttle_cpu: get_sensor_reading failed with (255)
+<46>1 2015-03-14T21:48:27-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-03-14T22:05:46-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T22:05:46-06:00 c0-0c0s4 bcsysd 2115 - -  get_core_cups_sensor: get_sensor_reading failed with (255)
+<29>1 2015-03-14T22:15:27-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-03-14T22:23:37-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9094', processed='center(received)=4571', processed='destination(messages)=4523', processed='destination(logserver)=4571', processed='source(downstream_src)=0', processed='source(local_src)=4571'
+<46>1 2015-03-14T22:43:38-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-03-14T23:02:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T23:02:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_mem_throttle_cpu: get_sensor_reading failed with (255)
+<13>1 2015-03-14T23:16:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_sensor_reading() failed with 0xff 
+<13>1 2015-03-14T23:16:29-06:00 c0-0c0s4 bcsysd 2115 - -  get_peci_cpu_thermal_status: get_sensor_reading failed with (255)
+<46>1 2015-03-14T23:23:38-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9106', processed='center(received)=4577', processed='destination(messages)=4529', processed='destination(logserver)=4577', processed='source(downstream_src)=0', processed='source(local_src)=4577'
+<46>1 2015-03-14T23:43:38-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-15T00:03:38-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-15T00:23:38-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-03-15T00:23:38-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=9114', processed='center(received)=4581', processed='destination(messages)=4533', processed='destination(logserver)=4581', processed='source(downstream_src)=0', processed='source(local_src)=4581'
+<29>1 2015-03-15T00:32:00-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-03-15T00:49:06-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001

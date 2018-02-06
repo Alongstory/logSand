@@ -1,0 +1,5 @@
+spark-submit --master local[40] --executor-memory 100G --driver-memory 100G word2vec_X.py
+
+spark-submit --master local[40] --executor-memory 100G --driver-memory 100G newEra.py
+
+ulimit -u 10000

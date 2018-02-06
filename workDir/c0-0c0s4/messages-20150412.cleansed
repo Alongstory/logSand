@@ -1,0 +1,256 @@
+<46>1 2015-04-12T00:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5508', processed='center(received)=2766', processed='destination(messages)=2742', processed='destination(logserver)=2766', processed='source(downstream_src)=0', processed='source(local_src)=2766'
+<29>1 2015-04-12T00:12:39-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T00:32:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T00:52:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T01:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5516', processed='center(received)=2770', processed='destination(messages)=2746', processed='destination(logserver)=2770', processed='source(downstream_src)=0', processed='source(local_src)=2770'
+<29>1 2015-04-12T01:03:54-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<29>1 2015-04-12T01:20:57-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T01:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T01:55:07-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<46>1 2015-04-12T02:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5526', processed='center(received)=2775', processed='destination(messages)=2751', processed='destination(logserver)=2775', processed='source(downstream_src)=0', processed='source(local_src)=2775'
+<46>1 2015-04-12T02:23:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T02:43:43-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T02:46:20-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T03:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5534', processed='center(received)=2779', processed='destination(messages)=2755', processed='destination(logserver)=2779', processed='source(downstream_src)=0', processed='source(local_src)=2779'
+<29>1 2015-04-12T03:20:29-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<29>1 2015-04-12T03:37:35-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T03:57:35-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T04:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5542', processed='center(received)=2783', processed='destination(messages)=2759', processed='destination(logserver)=2783', processed='source(downstream_src)=0', processed='source(local_src)=2783'
+<46>1 2015-04-12T04:23:43-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T04:43:43-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T04:45:54-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<46>1 2015-04-12T05:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5550', processed='center(received)=2787', processed='destination(messages)=2763', processed='destination(logserver)=2787', processed='source(downstream_src)=0', processed='source(local_src)=2787'
+<29>1 2015-04-12T05:20:02-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T05:40:02-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T06:00:02-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T06:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5558', processed='center(received)=2791', processed='destination(messages)=2767', processed='destination(logserver)=2791', processed='source(downstream_src)=0', processed='source(local_src)=2791'
+<29>1 2015-04-12T06:11:16-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 230 W.
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 230 watts
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 230 W.
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 230 watts
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 230 W.
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 230 watts
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 230 W.
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 230 watts
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T06:17:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-04-12T06:37:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T06:57:39-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T07:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5614', processed='center(received)=2819', processed='destination(messages)=2795', processed='destination(logserver)=2819', processed='source(downstream_src)=0', processed='source(local_src)=2819'
+<29>1 2015-04-12T07:19:31-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T07:39:31-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T07:59:31-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T08:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5622', processed='center(received)=2823', processed='destination(messages)=2799', processed='destination(logserver)=2823', processed='source(downstream_src)=0', processed='source(local_src)=2823'
+<29>1 2015-04-12T08:10:45-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<13>1 2015-04-12T08:22:48-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 power budget exceeded! Power=244, Limit=230, Max Correction Time=6
+<13>1 2015-04-12T08:22:50-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 now within power budget. Power=234, Limit=230
+<29>1 2015-04-12T08:27:48-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T08:47:48-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T09:03:43-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5634', processed='center(received)=2829', processed='destination(messages)=2805', processed='destination(logserver)=2829', processed='source(downstream_src)=0', processed='source(local_src)=2829'
+<29>1 2015-04-12T09:19:01-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<29>1 2015-04-12T09:36:05-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<13>1 2015-04-12T09:46:24-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 power budget exceeded! Power=249, Limit=230, Max Correction Time=6
+<13>1 2015-04-12T09:46:25-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 now within power budget. Power=202, Limit=230
+<46>1 2015-04-12T10:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5644', processed='center(received)=2834', processed='destination(messages)=2810', processed='destination(logserver)=2834', processed='source(downstream_src)=0', processed='source(local_src)=2834'
+<46>1 2015-04-12T10:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T10:27:19-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<46>1 2015-04-12T10:47:19-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T11:01:27-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T11:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5654', processed='center(received)=2839', processed='destination(messages)=2815', processed='destination(logserver)=2839', processed='source(downstream_src)=0', processed='source(local_src)=2839'
+<13>1 2015-04-12T11:23:00-06:00 c0-0c0s4 bcpmd 2146 - -  Node 0 power budget exceeded! Power=244, Limit=230, Max Correction Time=6
+<13>1 2015-04-12T11:23:01-06:00 c0-0c0s4 bcpmd 2146 - -  Node 0 now within power budget. Power=228, Limit=230
+<46>1 2015-04-12T11:43:01-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T12:03:01-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T12:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5664', processed='center(received)=2844', processed='destination(messages)=2820', processed='destination(logserver)=2844', processed='source(downstream_src)=0', processed='source(local_src)=2844'
+<13>1 2015-04-12T12:09:23-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 power budget exceeded! Power=260, Limit=230, Max Correction Time=6
+<13>1 2015-04-12T12:09:26-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 now within power budget. Power=239, Limit=230
+<29>1 2015-04-12T12:09:44-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<13>1 2015-04-12T12:11:56-06:00 c0-0c0s4 bcpmd 2146 - -  Node 1 power budget exceeded! Power=263, Limit=230, Max Correction Time=6
+<13>1 2015-04-12T12:11:58-06:00 c0-0c0s4 bcpmd 2146 - -  Node 1 now within power budget. Power=216, Limit=230
+<29>1 2015-04-12T12:26:50-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T12:31:02-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T12:31:03-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-04-12T12:51:03-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T13:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5728', processed='center(received)=2876', processed='destination(messages)=2852', processed='destination(logserver)=2876', processed='source(downstream_src)=0', processed='source(local_src)=2876'
+<46>1 2015-04-12T13:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T13:43:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T14:03:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T14:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5736', processed='center(received)=2880', processed='destination(messages)=2856', processed='destination(logserver)=2880', processed='source(downstream_src)=0', processed='source(local_src)=2880'
+<46>1 2015-04-12T14:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T14:43:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T15:03:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T15:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5744', processed='center(received)=2884', processed='destination(messages)=2860', processed='destination(logserver)=2884', processed='source(downstream_src)=0', processed='source(local_src)=2884'
+<46>1 2015-04-12T15:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 322 W.
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 322 watts
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 322 W.
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 322 watts
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T15:30:28-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 322 W.
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 322 watts
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 322 W.
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 322 watts
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T15:30:29-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-04-12T15:50:29-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T16:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5798', processed='center(received)=2911', processed='destination(messages)=2887', processed='destination(logserver)=2911', processed='source(downstream_src)=0', processed='source(local_src)=2911'
+<46>1 2015-04-12T16:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T16:43:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T17:03:44-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T17:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5806', processed='center(received)=2915', processed='destination(messages)=2891', processed='destination(logserver)=2915', processed='source(downstream_src)=0', processed='source(local_src)=2915'
+<46>1 2015-04-12T17:23:44-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T17:42:45-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<29>1 2015-04-12T17:59:50-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T18:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5814', processed='center(received)=2919', processed='destination(messages)=2895', processed='destination(logserver)=2919', processed='source(downstream_src)=0', processed='source(local_src)=2919'
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T18:22:57-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T18:22:58-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<29>1 2015-04-12T18:34:01-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<46>1 2015-04-12T18:54:01-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T19:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5868', processed='center(received)=2946', processed='destination(messages)=2922', processed='destination(logserver)=2946', processed='source(downstream_src)=0', processed='source(local_src)=2946'
+<29>1 2015-04-12T19:08:09-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T19:28:09-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T19:48:09-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T20:03:44-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5876', processed='center(received)=2950', processed='destination(messages)=2926', processed='destination(logserver)=2950', processed='source(downstream_src)=0', processed='source(local_src)=2950'
+<29>1 2015-04-12T20:16:28-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 276 W.
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 276 watts
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 276 W.
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 276 watts
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T20:21:23-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 276 W.
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 276 watts
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 276 W.
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 276 watts
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T20:21:24-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-04-12T20:41:24-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-04-12T20:50:36-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T21:03:45-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5932', processed='center(received)=2978', processed='destination(messages)=2954', processed='destination(logserver)=2978', processed='source(downstream_src)=0', processed='source(local_src)=2978'
+<46>1 2015-04-12T21:23:45-06:00 c0-0c0s4 -- - - -  MARK --
+<13>1 2015-04-12T21:31:45-06:00 c0-0c0s4 bcpmd 2146 - -  Node 0 power budget exceeded! Power=291, Limit=276, Max Correction Time=6
+<13>1 2015-04-12T21:31:46-06:00 c0-0c0s4 bcpmd 2146 - -  Node 0 now within power budget. Power=213, Limit=276
+<13>1 2015-04-12T21:37:09-06:00 c0-0c0s4 bcpmd 2146 - -  Node 2 power budget exceeded! Power=291, Limit=276, Max Correction Time=6
+<13>1 2015-04-12T21:37:10-06:00 c0-0c0s4 bcpmd 2146 - -  Node 2 now within power budget. Power=275, Limit=276
+<13>1 2015-04-12T21:39:14-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 power budget exceeded! Power=291, Limit=276, Max Correction Time=6
+<13>1 2015-04-12T21:39:15-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 now within power budget. Power=275, Limit=276
+<29>1 2015-04-12T21:41:50-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001
+<29>1 2015-04-12T21:58:56-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 2001
+<46>1 2015-04-12T22:03:45-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5952', processed='center(received)=2988', processed='destination(messages)=2964', processed='destination(logserver)=2988', processed='source(downstream_src)=0', processed='source(local_src)=2988'
+<46>1 2015-04-12T22:23:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T22:43:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T23:03:45-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-04-12T23:03:45-06:00 c0-0c0s4 syslog-ng 2082 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=5960', processed='center(received)=2992', processed='destination(messages)=2968', processed='destination(logserver)=2992', processed='source(downstream_src)=0', processed='source(local_src)=2992'
+<13>1 2015-04-12T23:06:29-06:00 c0-0c0s4 bcpmd 2146 - -  Node 2 power budget exceeded! Power=306, Limit=276, Max Correction Time=6
+<13>1 2015-04-12T23:06:31-06:00 c0-0c0s4 bcpmd 2146 - -  Node 2 now within power budget. Power=280, Limit=276
+<13>1 2015-04-12T23:08:17-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 power budget exceeded! Power=301, Limit=276, Max Correction Time=6
+<13>1 2015-04-12T23:08:18-06:00 c0-0c0s4 bcpmd 2146 - -  Node 3 now within power budget. Power=244, Limit=276
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 368 W.
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 368 watts
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 368 W.
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 368 watts
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T23:23:38-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 368 W.
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 368 watts
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 368 W.
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 368 watts
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 bcpmd 2146 - -  work exit status: 0
+<13>1 2015-04-12T23:23:39-06:00 c0-0c0s4 bcpmd 2146 - -  work posted: nmtool --node=3 --startup
+<29>1 2015-04-12T23:41:19-06:00 c0-0c0s4 ntpd 2073 - -  kernel time sync status change 6001

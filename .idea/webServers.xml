@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fb286c87-270d-44aa-8035-90a4b4436284" name="Discovery" url="http://discovery2.neu.edu">
+        <fileTransfer host="discovery2.neu.edu" port="22" rootFolder="/home/liu.yu5" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

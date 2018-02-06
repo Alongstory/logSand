@@ -1,0 +1,125 @@
+<46>1 2015-02-25T00:00:55-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T00:20:55-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T00:37:41-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-02-25T00:40:55-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4050', processed='center(received)=2041', processed='destination(messages)=2009', processed='destination(logserver)=2041', processed='source(downstream_src)=0', processed='source(local_src)=2041'
+<46>1 2015-02-25T01:00:55-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T01:03:18-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T01:23:18-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T01:40:55-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4058', processed='center(received)=2045', processed='destination(messages)=2013', processed='destination(logserver)=2045', processed='source(downstream_src)=0', processed='source(local_src)=2045'
+<46>1 2015-02-25T02:00:55-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T02:20:55-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T02:40:55-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T02:40:55-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4066', processed='center(received)=2049', processed='destination(messages)=2017', processed='destination(logserver)=2049', processed='source(downstream_src)=0', processed='source(local_src)=2049'
+<46>1 2015-02-25T03:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T03:19:59-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-02-25T03:39:59-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T03:40:55-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4074', processed='center(received)=2053', processed='destination(messages)=2021', processed='destination(logserver)=2053', processed='source(downstream_src)=0', processed='source(local_src)=2053'
+<46>1 2015-02-25T04:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T04:11:16-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T04:31:16-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T04:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4082', processed='center(received)=2057', processed='destination(messages)=2025', processed='destination(logserver)=2057', processed='source(downstream_src)=0', processed='source(local_src)=2057'
+<46>1 2015-02-25T05:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T05:02:31-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T05:19:35-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T05:39:35-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T05:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4092', processed='center(received)=2062', processed='destination(messages)=2030', processed='destination(logserver)=2062', processed='source(downstream_src)=0', processed='source(local_src)=2062'
+<29>1 2015-02-25T05:53:44-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T06:10:50-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T06:30:50-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T06:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4100', processed='center(received)=2066', processed='destination(messages)=2034', processed='destination(logserver)=2066', processed='source(downstream_src)=0', processed='source(local_src)=2066'
+<46>1 2015-02-25T07:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T07:02:05-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-02-25T07:22:05-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T07:36:12-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T07:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4110', processed='center(received)=2071', processed='destination(messages)=2039', processed='destination(logserver)=2071', processed='source(downstream_src)=0', processed='source(local_src)=2071'
+<46>1 2015-02-25T08:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T08:20:56-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T08:40:56-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T08:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4118', processed='center(received)=2075', processed='destination(messages)=2043', processed='destination(logserver)=2075', processed='source(downstream_src)=0', processed='source(local_src)=2075'
+<46>1 2015-02-25T09:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T09:01:35-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T09:18:41-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T09:38:41-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T09:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4128', processed='center(received)=2080', processed='destination(messages)=2048', processed='destination(logserver)=2080', processed='source(downstream_src)=0', processed='source(local_src)=2080'
+<46>1 2015-02-25T10:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T10:20:56-06:00 c0-0c0s4 -- - - -  MARK --
+<12>1 2015-02-25T10:30:50-06:00 c0-0c0s4 bcsysd 2115 - -  Node 0 interrupt IREQ=0x80000, USRA=0x0, USRB=0x200080 USRB[7]: C0_PROCHOT CPU 0 Processor Hot USRB[21]: PDC_ALERT_OTEMP PDC Alert Over Temperature
+<46>1 2015-02-25T10:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4136', processed='center(received)=2084', processed='destination(messages)=2052', processed='destination(logserver)=2084', processed='source(downstream_src)=0', processed='source(local_src)=2084'
+<46>1 2015-02-25T11:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T11:18:06-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-02-25T11:38:06-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T11:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4144', processed='center(received)=2088', processed='destination(messages)=2056', processed='destination(logserver)=2088', processed='source(downstream_src)=0', processed='source(local_src)=2088'
+<29>1 2015-02-25T11:52:14-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T12:12:14-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T12:32:14-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T12:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4152', processed='center(received)=2092', processed='destination(messages)=2060', processed='destination(logserver)=2092', processed='source(downstream_src)=0', processed='source(local_src)=2092'
+<46>1 2015-02-25T13:00:56-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T13:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T13:40:56-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4158', processed='center(received)=2095', processed='destination(messages)=2063', processed='destination(logserver)=2095', processed='source(downstream_src)=0', processed='source(local_src)=2095'
+<46>1 2015-02-25T14:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T14:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T14:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T14:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4166', processed='center(received)=2099', processed='destination(messages)=2067', processed='destination(logserver)=2099', processed='source(downstream_src)=0', processed='source(local_src)=2099'
+<46>1 2015-02-25T15:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T15:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T15:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T15:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4174', processed='center(received)=2103', processed='destination(messages)=2071', processed='destination(logserver)=2103', processed='source(downstream_src)=0', processed='source(local_src)=2103'
+<13>1 2015-02-25T15:48:20-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[0] is_svc field to 0
+<13>1 2015-02-25T15:48:20-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[1] is_svc field to 0
+<13>1 2015-02-25T15:48:20-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[2] is_svc field to 0
+<13>1 2015-02-25T15:48:20-06:00 c0-0c0s4 bcsysd 2115 - -  sysnode_update: setting my_node_array[3] is_svc field to 0
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 nmtool - - -  nmtool --node=0 --startup
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345918
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 nmtool - - -  Node 0 power budget set to 0 watts
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-25T15:48:26-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=0 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  nmtool --node=1 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345919
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Node 1 power budget set to 0 watts
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=1 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  nmtool --node=2 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345920
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Node 2 power budget set to 0 watts
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=2 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  nmtool --node=3 --startup
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Found powercap file: PATH345921
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Requested power cap is 0 W.
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 nmtool - - -  Node 3 power budget set to 0 watts
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work exit status: 0
+<13>1 2015-02-25T15:48:27-06:00 c0-0c0s4 bcpmd 2147 - -  work posted: nmtool --node=3 --startup
+<46>1 2015-02-25T16:08:27-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T16:28:28-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T16:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4236', processed='center(received)=2134', processed='destination(messages)=2102', processed='destination(logserver)=2134', processed='source(downstream_src)=0', processed='source(local_src)=2134'
+<46>1 2015-02-25T17:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T17:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T17:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T17:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4244', processed='center(received)=2138', processed='destination(messages)=2106', processed='destination(logserver)=2138', processed='source(downstream_src)=0', processed='source(local_src)=2138'
+<46>1 2015-02-25T18:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T18:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T18:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T18:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4252', processed='center(received)=2142', processed='destination(messages)=2110', processed='destination(logserver)=2142', processed='source(downstream_src)=0', processed='source(local_src)=2142'
+<46>1 2015-02-25T19:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T19:20:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T19:40:57-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T19:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4260', processed='center(received)=2146', processed='destination(messages)=2114', processed='destination(logserver)=2146', processed='source(downstream_src)=0', processed='source(local_src)=2146'
+<46>1 2015-02-25T20:00:57-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T20:07:37-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T20:24:43-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T20:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4268', processed='center(received)=2150', processed='destination(messages)=2118', processed='destination(logserver)=2150', processed='source(downstream_src)=0', processed='source(local_src)=2150'
+<29>1 2015-02-25T20:58:54-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T21:15:59-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T21:35:59-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T21:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4276', processed='center(received)=2154', processed='destination(messages)=2122', processed='destination(logserver)=2154', processed='source(downstream_src)=0', processed='source(local_src)=2154'
+<29>1 2015-02-25T21:50:09-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<46>1 2015-02-25T22:10:09-06:00 c0-0c0s4 -- - - -  MARK --
+<29>1 2015-02-25T22:24:17-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T22:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4284', processed='center(received)=2158', processed='destination(messages)=2126', processed='destination(logserver)=2158', processed='source(downstream_src)=0', processed='source(local_src)=2158'
+<29>1 2015-02-25T22:58:26-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 6001
+<29>1 2015-02-25T23:15:32-06:00 c0-0c0s4 ntpd 2076 - -  kernel time sync status change 2001
+<46>1 2015-02-25T23:35:32-06:00 c0-0c0s4 -- - - -  MARK --
+<46>1 2015-02-25T23:40:57-06:00 c0-0c0s4 syslog-ng 2085 - -  Log statistics; dropped='tcp(AF_INET(IPADDR344:5171))=0', processed='center(queued)=4292', processed='center(received)=2162', processed='destination(messages)=2130', processed='destination(logserver)=2162', processed='source(downstream_src)=0', processed='source(local_src)=2162'
